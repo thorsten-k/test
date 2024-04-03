@@ -1,6 +1,1 @@
 test
-<<<<<<< HEAD
-b1
-=======
-fff
->>>>>>> branch 'main' of local repository
